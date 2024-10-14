@@ -1,1 +1,12 @@
-Design and code a program that reads a text file, and counts the number of times each word that it contains appears 100
+Design and code a program that reads a text file, and counts the number of times each word that it contains appears 100.
+The quick brown fox jumps over the lazy dog. The dog barked loudly. However, the fox was too quick to catch.
+In programming, variables and functions are used frequently. Variables store data, and functions execute specific tasks.
+Java is a popular programming language. Java and Python are often compared due to their ease of use and versatility.
+Writing clean code is important for any programmer. Clean code is easy to read, easy to maintain, and easy to test.
+Test cases are used to verify that the code works as expected. Debugging helps in finding and fixing errors in the code.
+Version control systems like Git help track changes in code over time, allowing collaboration between developers.
+Continuous learning is essential for growth in the field of software development. With each new challenge, you learn new concepts.
+The word 'hello' appears often in basic programming examples. Similarly, the word 'world' often accompanies 'hello' in output.
+Artificial intelligence and machine learning are growing rapidly. Data science is another emerging field related to AI and ML.
+Collaboration is key in team projects, and clear variables communication helps prevent misunderstandings. Team members must work together.
+Understanding algorithms and data structures is crucial for solving complex problems efficiently in computer science.
