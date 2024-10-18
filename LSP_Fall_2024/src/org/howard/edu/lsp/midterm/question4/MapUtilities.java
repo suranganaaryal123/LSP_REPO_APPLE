@@ -1,4 +1,6 @@
 package org.howard.edu.lsp.midterm.question4;
+//citations
+//comparing hashmaps: https://stackoverflow.com/questions/20969211/comparing-two-hashmaps-for-equal-values-and-same-key-sets
 
 import java.util.HashMap;
 
