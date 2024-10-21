@@ -1,4 +1,7 @@
 package org.howard.edu.lsp.midterm.question1;
+//citation
+//getters and setters: https://www.baeldung.com/java-tostring
+//equals method: https://www.geeksforgeeks.org/equals-hashcode-methods-java/
 
 public class Book {
 	//properties of the book
