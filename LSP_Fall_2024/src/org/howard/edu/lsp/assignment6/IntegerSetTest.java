@@ -183,12 +183,13 @@ public class IntegerSetTest {
         set2.add(1);
         set2.add(2);
         set2.add(3);
-        
-        set1.complement(set2);
-        assertFalse(set1.contains(1));
-        assertFalse(set1.contains(2));
-        assertTrue(set1.contains(3));
-        assertEquals(1, set1.length());
+
+        IntegerSet result = set2.complement(set1);
+    
+        assertFalse(result.contains(1)); 
+        assertFalse(result.contains(2)); 
+        assertTrue(result.contains(3));  
+        assertEquals(1, result.length()); 
     }
     
     @Test
