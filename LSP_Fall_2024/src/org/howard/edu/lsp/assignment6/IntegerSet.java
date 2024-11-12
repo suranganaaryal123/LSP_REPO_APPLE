@@ -145,16 +145,15 @@ public class IntegerSet {
      * this method changes the set to include elements not in the current set 
      * @param intSetb the set to be compared with this
      */
-    public void complement(IntegerSet intSetb) {
-        List<Integer> complementSet = new ArrayList<>();
-        for (int item : intSetb.set) {
-            if (!set.contains(item)) {
-                complementSet.add(item);
-            }
+    public IntegerSet complement(IntegerSet intSetb) {
+    List<Integer> complementSet = new ArrayList<>();
+    for (int item : intSetb.set) {
+        if (!this.set.contains(item)) {
+            complementSet.add(item);
         }
-        set.clear();
-        set.addAll(complementSet);
     }
+    return new IntegerSet(new ArrayList<>(complementSet));
+}
 
     /**
      * checks if the set is empty
