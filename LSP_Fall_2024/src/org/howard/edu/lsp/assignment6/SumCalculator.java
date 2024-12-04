@@ -1,3 +1,4 @@
+//practicing for final exam
 package src.org.howard.edu.lsp.assignment6;
 
 public class SumCalculator {
