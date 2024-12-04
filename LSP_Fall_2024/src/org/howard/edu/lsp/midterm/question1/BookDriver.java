@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.midterm.question1;
+package src.org.howard.edu.lsp.midterm.question1;
 //writing a test case to instantiate class
 public class BookDriver {
     public static void main(String[] args) {

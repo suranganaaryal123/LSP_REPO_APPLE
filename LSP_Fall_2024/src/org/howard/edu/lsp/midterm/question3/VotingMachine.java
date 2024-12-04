@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.midterm.question3;
+package src.org.howard.edu.lsp.midterm.question3;
 //citation
 //hashmaps: https://www.w3schools.com/java/java_hashmap.asp
 import java.util.HashMap;

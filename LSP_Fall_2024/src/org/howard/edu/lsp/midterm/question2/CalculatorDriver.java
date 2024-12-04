@@ -1,5 +1,5 @@
 // CalculatorDriver class for testing to instantiate the calculator class
-package org.howard.edu.lsp.midterm.question2;
+package src.org.howard.edu.lsp.midterm.question2;
 
 public class CalculatorDriver {
     public static void main(String[] args) {
