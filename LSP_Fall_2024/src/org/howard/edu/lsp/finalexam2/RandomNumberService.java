@@ -2,17 +2,15 @@ package src.org.howard.edu.lsp.finalexam2;
 
 public class RandomNumberService {
 
-   // Singleton instance
+
    private static RandomNumberService instance;
 
-   // Strategy to generate random numbers
    private RandomNumberGenerator strategy;
 
-   // Private constructor to prevent instantiation from other classes
    private RandomNumberService() {}
 
    /**
-    * Returns the singleton instance of RandomNumberService.
+    * Returns the singleton instance 
     * 
     * @return the singleton instance of RandomNumberService
     */
