@@ -3,9 +3,9 @@ package src.org.howard.edu.lsp.finalexam2;
 public interface RandomNumberGenerator {
 
     /**
-     * Generates a random number.
+     * Generates  random number.
      * 
-     * @return a positive random integer.
+     * @return a positive integer.
      */
     int generate();
 }
