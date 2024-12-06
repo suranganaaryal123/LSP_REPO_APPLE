@@ -21,7 +21,7 @@ public class CustomRandomGenerator implements RandomNumberGenerator {
     @Override
     public int generate() {
         // Simple Linear Congruential Generator algorithm
-        seed = (seed * 1103515245 + 12345) % (1 << 31);
+        seed = (seed * 1664525 + 1013904223) % (1 << 32);
         return (int) (seed % Integer.MAX_VALUE) + 1; 
     }
 }
