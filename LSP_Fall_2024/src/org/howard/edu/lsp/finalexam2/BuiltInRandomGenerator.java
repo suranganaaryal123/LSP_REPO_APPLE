@@ -3,7 +3,7 @@ package src.org.howard.edu.lsp.finalexam2;
 import java.util.Random;
 
 /**
- * Random number generator using Java's built-in Random class.
+ * Random number generator using Java's built-in Random class. abcd check
  */
 public class BuiltInRandomGenerator implements RandomNumberGenerator {
     private final Random random = new Random();
